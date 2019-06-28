@@ -24,7 +24,7 @@ public class Main {
                 .mapToPair(word -> new Tuple2<>(word, 1))
                 .reduceByKey((a, b) -> a + b);
         counts.foreach(p -> System.out.println(p));
-        System.out.println("Total words: " + counts.count());
+        System.out.println("Total cities words: " + counts.count());
         counts.saveAsTextFile("src/main/resources/output/cities");
     }
 

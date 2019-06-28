@@ -1,8 +1,8 @@
-Prishtinë
-Prishtinë
-Prizreni
-Pejë
-Gjilani
-Mitrovicë
-Ferizaj
-Gjakovë
+Prishtinë,
+Prishtinë,
+Prizreni,
+Pejë,
+Gjilani,
+Mitrovicë,
+Ferizaj,
+Gjakovë,
